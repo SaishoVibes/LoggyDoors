@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "minecraft:block/stripped_cherry_log",
+    "bottom": "minecraft:block/stripped_cherry_log",
+    "top": "minecraft:block/stripped_cherry_log"
+  },
+  "render_type": "cutout_mipped"
+}

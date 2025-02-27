@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "minecraft:block/acacia_log",
+    "bottom": "minecraft:block/acacia_log",
+    "top": "minecraft:block/acacia_log"
+  },
+  "render_type": "cutout_mipped"
+}

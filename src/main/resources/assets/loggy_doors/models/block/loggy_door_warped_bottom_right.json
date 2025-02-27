@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "minecraft:block/warped_stem",
+    "bottom": "minecraft:block/warped_stem",
+    "top": "minecraft:block/warped_stem"
+  },
+  "render_type": "cutout_mipped"
+}

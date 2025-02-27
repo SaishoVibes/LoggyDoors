@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "loggy_doors:blocks/loggy_door_stripped_acacia",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "loggy_doors:loggy_door_stripped_acacia",
+          "conditions": [
+            {
+              "block": "loggy_doors:loggy_door_stripped_acacia",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

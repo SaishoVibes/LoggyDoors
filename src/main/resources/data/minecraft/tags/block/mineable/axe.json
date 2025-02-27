@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "loggy_doors:loggy_door_stripped_cherry",
+    "loggy_doors:loggy_door_stripped_bamboo",
+    "loggy_doors:loggy_door_stripped_mangrove",
+    "loggy_doors:loggy_door_stripped_warped",
+    "loggy_doors:loggy_door_stripped_crimson",
+    "loggy_doors:loggy_door_stripped_dark_oak",
+    "loggy_doors:loggy_door_stripped_acacia",
+    "loggy_doors:loggy_door_stripped_spruce",
+    "loggy_doors:loggy_door_stripped_jungle",
+    "loggy_doors:loggy_door_cherry",
+    "loggy_doors:loggy_door_bamboo",
+    "loggy_doors:loggy_door_mangrove",
+    "loggy_doors:loggy_door_warped",
+    "loggy_doors:loggy_door_crimson",
+    "loggy_doors:loggy_door_dark_oak",
+    "loggy_doors:loggy_door_acacia",
+    "loggy_doors:loggy_door_spruce",
+    "loggy_doors:loggy_door_jungle",
+    "loggy_doors:loggy_door_stripped_birch",
+    "loggy_doors:loggy_door_birch",
+    "loggy_doors:loggy_door_stripped_oak",
+    "loggy_doors:loggy_door_oak"
+  ]
+}

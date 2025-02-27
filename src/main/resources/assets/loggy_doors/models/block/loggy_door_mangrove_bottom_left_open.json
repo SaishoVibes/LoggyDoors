@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "particle": "minecraft:block/mangrove_log",
+    "bottom": "minecraft:block/mangrove_log",
+    "top": "minecraft:block/mangrove_log"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "id": "loggy_doors:loggy_door_acacia",
+    "count": 3
+  }
+}

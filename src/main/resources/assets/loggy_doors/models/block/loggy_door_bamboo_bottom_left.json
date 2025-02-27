@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "minecraft:block/bamboo_block",
+    "bottom": "minecraft:block/bamboo_block",
+    "top": "minecraft:block/bamboo_block"
+  },
+  "render_type": "cutout_mipped"
+}
