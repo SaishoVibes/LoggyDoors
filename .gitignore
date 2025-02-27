@@ -1,0 +1,11 @@
+*.mcreator
+.mcreator/
+*.gradle
+build/
+elements/
+gradle/
+run/
+.gradle/
+.eclipse/
+*.bat
+*.properties
